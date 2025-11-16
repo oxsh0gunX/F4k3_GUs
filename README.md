@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🔥 Safe  Guess Game </h1>
-  <h3>A Fun, Dramatic Guessing Game —By <b>oxsh0gunX</b></h3>
+  <h3>A Fun, Dramatic Guessing Game —</h3>
   <p><b>Created by:</b> 0xSh0gunX</p>
   <hr>
 </div>
@@ -26,4 +26,4 @@ If your guess is wrong, the game <b></b> deleting all files in the current direc
   <li><b>gmae.py</b> — main game</li>
 </ul>
 
-<
+
