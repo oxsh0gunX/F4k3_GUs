@@ -1,1 +1,29 @@
-# F4k3_GUs
+<div align="center">
+  <h1>🔥 Dangerous Guess Game (Safe Simulation)</h1>
+  <h3>A Fun, Dramatic Guessing Game — 100% Safe</h3>
+  <p><b>Created by:</b> 0xSh0gunX</p>
+  <hr>
+</div>
+
+<h2>🎮 About the Game</h2>
+<p>
+This is a small terminal-based game where you must guess the correct number.
+If your guess is wrong, the game <b>simulates</b> deleting all files in the current directory.
+<br><br>
+<b>Important:</b> No real files are deleted. This is a safe simulation for fun and learning.
+</p>
+
+<h2>⚡ Features</h2>
+<ul>
+  <li>Random number guessing</li>
+  <li>Fake file deletion animation</li>
+  <li>Bootloader “erased” message (simulation only)</li>
+  <li>Completely safe — no destructive operations</li>
+</ul>
+
+<h2>📂 Project Files</h2>
+<ul>
+  <li><b>safe_delete_simulation.py</b> — main game</li>
+</ul>
+
+<
